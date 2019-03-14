@@ -56,6 +56,7 @@
 - [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков
 - [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
+- [Редирект от Антона](https://dialogs.yandex.ru/store/skills/4d57ef0e-redirekt-ot-antona) - Этот навык помогает тестировать другие навыки включая не опубликованные.
 - [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 - [alice-tester](https://github.com/vitalets/alice-tester) - Библиотека для автоматического тестирования навыков под  Node.js
 
@@ -89,6 +90,7 @@
 - [popstas/yandex-dialogs-whatis](https://github.com/popstas/yandex-dialogs-whatis) - Пример на yandex-dialogs-sdk, навык [Вторая память](https://dialogs.yandex.ru/store/skills/00203e6e-vtoraya-pamya)
 - [ShoshinNikita/radio-t-bot](https://github.com/ShoshinNikita/radio-t-bot) - Пример на Go, навык [Радио-Т](https://dialogs.yandex.ru/store/skills/59f0e8df-radio-t-hitech-podkast-vyhodnogo-dnya)
 - [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык [Викторина по истории России](https://dialogs.yandex.ru/store/skills/3af72151-viktorina-po-istorii-rossii)
+- [Знайка ответит](https://dialogs.yandex.ru/store/skills/48b31fb4-areshkin-pomozhet-reshit-i-podschi) - Решает уравнения с одной переменной. Вычисляет и упрощает математические выражения.
 - [xoposhiy/prog-eng-alice](https://github.com/xoposhiy/prog-eng-alice) – Пример на C#, Навык Алисы для изучения программистского английского
 
 ## Чаты
